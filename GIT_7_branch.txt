@@ -1,0 +1,12 @@
+*   7533bb8 (HEAD -> master) GIT 7 - rozwiazanie konfliktow
+|\
+| * f8173bf (test) Updated README.md v2
+| * 9093d36 GIT 7 v1
+* | 67a72b0 Updated README.md
+|/
+* 6538449 GIT 6
+* b9ac963 GIT 5
+* b9c7fdd Dodanie README.md
+* 3dd4d83 GIT 4 - final
+* fd2c0a5 Added files with status
+* 769993d Added 2 files
