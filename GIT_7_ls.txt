@@ -1,0 +1,20 @@
+
+
+    Directory: C:\Users\48791\Desktop\GIT\my_first_repo_GIT_3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        10.11.2025     18:58            195 GIT_1_idea.txt
+-a----        10.11.2025     18:55             28 GIT_2_version.txt
+-a----        10.11.2025     19:10            396 GIT_4_restore.txt
+-a----        10.11.2025     19:08             55 GIT_4_status1.txt
+-a----        10.11.2025     19:07            220 GIT_4_status2.txt
+-a----        10.11.2025     19:07            333 GIT_4_status3.txt
+-a----        10.11.2025     19:45            150 GIT_5_diff.txt
+-a----        10.11.2025     19:58            844 GIT_6_log.txt
+-a----        10.11.2025     20:00            136 GIT_6_log_oneline.txt
+-a----        10.11.2025     20:02            815 GIT_6_show.txt
+-a----        10.11.2025     20:30              0 GIT_7_ls.txt
+-a----        10.11.2025     19:20             96 README.md
+
