@@ -1,0 +1,1 @@
+Przykładowym projektem nad którym można pracować z użyciem GITa to np Aplikacja która po zeskanowaniu liścia przez aparat za pomocą AI znajduję chorobę liścia oraz pomaga dobrać leki.
