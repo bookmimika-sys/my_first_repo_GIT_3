@@ -1,0 +1,11 @@
+12e0d74 9093d36363f8af906c9eba233f8d47dd54fb5f61
+diff --git a/README.md b/README.md
+index 15833cd..b440af6 100644
+--- a/README.md
++++ b/README.md
+@@ -2,5 +2,3 @@ System kontroli wersji - ćwiczenia, my\_first\_repo\_GIT\_3
+
+ pd5081, Dominika Wojtanowska
+
+-Tym wpisem chcemy spowodować konflikt.
+-
