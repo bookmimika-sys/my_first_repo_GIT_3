@@ -1,9 +1,12 @@
-System kontroli wersji - ćwiczenia, my\_first\_repo\_GIT\_3
+# System kontroli wersji - ćwiczenia
+Nazwa: my\_first\_repo\_GIT\_3
 
-pd5081, Dominika Wojtanowska
+**Dominika Wojtanowska**
 
-Praca z gałęziami i rozwiązywanie konfliktów
+*pd5081*
 
-Tym wpisem chcemy spowodować konflikt.
+1. 10/11/2025
+2. 22:35
 
+`git init`
 
