@@ -2,8 +2,9 @@ System kontroli wersji - ćwiczenia, my\_first\_repo\_GIT\_3
 
 pd5081, Dominika Wojtanowska
 
+<<<<<<< HEAD
 Praca z gałęziami i rozwiązywanie konfliktów
-
+=======
 Tym wpisem chcemy spowodować konflikt.
-
+>>>>>>> f8173bffbf1c7381e6b4f30a20a1e784812e0d74
 
