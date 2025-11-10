@@ -1,0 +1,1 @@
+Został dodany nowy plik drugi_plik.txt z 2 liniami w tym jedną pustą i dodatkowo została dodana jedna linijka "hello world" do pliku nowy_plik.txt
