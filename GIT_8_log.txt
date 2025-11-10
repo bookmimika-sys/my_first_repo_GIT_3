@@ -1,0 +1,47 @@
+commit f8173bffbf1c7381e6b4f30a20a1e784812e0d74 (HEAD -> test)
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 20:37:37 2025 +0100
+
+    Updated README.md v2
+
+commit 9093d36363f8af906c9eba233f8d47dd54fb5f61
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 20:34:42 2025 +0100
+
+    GIT 7 v1
+
+commit 65384498ca6e89f3ca20f29d78f8c86338754ca6
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 20:28:54 2025 +0100
+
+    GIT 6
+
+commit b9ac96359242616ecfa718a167302bdf783da141
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 19:46:17 2025 +0100
+
+    GIT 5
+
+commit b9c7fddec6b46d7396d12ba98df893a71f7581f0
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 19:21:10 2025 +0100
+
+    Dodanie README.md
+
+commit 3dd4d83dabf1d44d70813b89fede5cb95dd97c38
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 19:13:25 2025 +0100
+
+    GIT 4 - final
+
+commit fd2c0a5f1bdf9f6b56e29ec37b2eb4172ba10cd1
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 19:06:11 2025 +0100
+
+    Added files with status
+
+commit 769993df920fe9f97cd03b7b7f27e5b4997233bd
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 19:03:41 2025 +0100
+
+    Added 2 files
