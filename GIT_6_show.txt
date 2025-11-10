@@ -1,0 +1,28 @@
+commit fd2c0a5f1bdf9f6b56e29ec37b2eb4172ba10cd1
+Author: Dominika Wojtanowska <pd5081@pjwstk.edu.pl>
+Date:   Mon Nov 10 19:06:11 2025 +0100
+
+    Added files with status
+
+diff --git a/GIT_4_status1.txt b/GIT_4_status1.txt
+new file mode 100644
+index 0000000..250adb1
+--- /dev/null
++++ b/GIT_4_status1.txt
+@@ -0,0 +1,2 @@
++On branch master
++nothing to commit, working tree clean
+\ No newline at end of file
+diff --git a/GIT_4_status2.txt b/GIT_4_status2.txt
+new file mode 100644
+index 0000000..26bc4e8
+--- /dev/null
++++ b/GIT_4_status2.txt
+@@ -0,0 +1,6 @@
++On branch master
++Untracked files:
++  (use "git add <file>..." to include in what will be committed)
++        GIT_4_status1.txt
++
++nothing added to commit but untracked files present (use "git add" to track)
+\ No newline at end of file
